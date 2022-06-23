@@ -1,4 +1,4 @@
-Completed this project to learn the MERN stack!
+I completed this project as part of a tutorial to learn the MERN stack! This application is an "exercise tracker" that allows registered and track the date, time, and description of their activity, with the backend data stored in MongoDB. 
 
 To run the web app:
 
