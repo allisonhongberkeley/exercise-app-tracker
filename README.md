@@ -1,3 +1,15 @@
+Completed this project to learn the MERN stack!
+
+To run the web app:
+
+1. Clone the repository and open in a text editor of your choosing. 
+2. To install dependencies, run 'npm install express cors mongoose dotenv'.
+3. In the project directory, run 'node server.js'.
+4. Run 'npm start'. 
+
+
+----------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
